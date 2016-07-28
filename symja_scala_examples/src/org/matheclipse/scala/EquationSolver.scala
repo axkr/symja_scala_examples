@@ -7,7 +7,7 @@ object Solver {
 
   def main(args: Array[String]) {
     try {
-      // use the static methods in org.matheclipse.core.expression.F
+      // use the "low level" static methods in org.matheclipse.core.expression.F
       val result = eval(Solve(List(Equal(Sqr(x) + ZZ(11L), y), Equal(x + y, CN9)), List(x,y)));
       println(result);
       
