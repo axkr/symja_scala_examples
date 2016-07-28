@@ -2,8 +2,9 @@
 
 **Note**: this repository requires **Java 8**. 
 
-Here you can find Scala examples how to use the computer algebra functions from Symja:
-* [Symja](https://bitbucket.org/axelclk/symja_android_library)  
+Here you can find Scala examples how to use the computer algebra functions from the
+
+* [Symja Project](https://bitbucket.org/axelclk/symja_android_library)  
 
 
 ###Examples
